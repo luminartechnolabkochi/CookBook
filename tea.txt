@@ -2,8 +2,8 @@ Recipe name:Tea
 
 ingradients
 
-1)water
-2)milk
-3)sugar
-4)tea powder
+1)water 1ltr
+2)milk .5 ltr
+3)sugar 5 table spoon
+4)tea powder 2 table spoon
 
